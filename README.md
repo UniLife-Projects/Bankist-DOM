@@ -1,4 +1,4 @@
-# [The-Bankist](https://uche-jordy-bankist-dom.netlify.app/)
+# [The-Bankist: Enhance your Finances](https://uche-jordy-bankist-dom.netlify.app/)
 
 #### Explore our [Demo](https://uche-jordy-bankist-dom.netlify.app/)
 
